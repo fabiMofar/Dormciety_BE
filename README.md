@@ -1,2 +1,2 @@
 # Dormciety_BE
-With React Native
+Node js, Express.js
